@@ -7,7 +7,12 @@ Find and replace all on all files (CMD+SHIFT+F):
 - Description: Nuxt module to connect and use @upstash/redis from your fullstack app
 -->
 
-# Nuxt upstash-redis
+# WIP - Not ready for use yet
+
+
+
+
+## Nuxt upstash-redis
 
 
 [![npm version][npm-version-src]][npm-version-href]
